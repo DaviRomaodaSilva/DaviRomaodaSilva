@@ -1,4 +1,7 @@
-### Ola!!! Eu sou o Davi Romão 👋
+### Ola, seja bem-vindo ao meu GitHub!!!👋
+Eu sou o **Davi Romão**, apaixonado por tecnologia, dados e inovação! 
+Aqui você encontrara projetos que desenvolvi enquanto estudo tecnologias modernas e aplico soluções práticas para resolver problemas.
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/davi-rom%C3%A3o-da-silva-290942199?utm_source=share&utm_campaing=share_via&utm_content=profile&utm_medium=nadroid_app)
 
 
